@@ -24,7 +24,7 @@ public class FlipCoinPercentage {
             System.out.println("Percentage of Tails : " +ht);
         }
         else {
-            System.out.println("Invalid value of n. Please enter a positive integer");
+            System.out.println("Invalid value of n.");
         }
     }
 }
