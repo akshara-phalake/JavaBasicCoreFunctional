@@ -1,4 +1,4 @@
-package com.examples.javabasicfunctional;
+package com.examples.basiccore;
 import java.util.Scanner;
 
 public class EvenOdd {
